@@ -38,7 +38,7 @@ public class SecurityConfig {
                 new CorsConfiguration();
 
         configuration.setAllowedOrigins(
-                List.of("https://expense-tracker-djbtmrqab-pinipenaveena.vercel.app")
+                List.of("https://expense-tracker-pinipenaveena.vercel.app")
         );
 
         configuration.setAllowedMethods(
