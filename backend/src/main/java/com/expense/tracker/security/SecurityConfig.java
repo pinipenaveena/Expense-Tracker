@@ -38,7 +38,7 @@ public class SecurityConfig {
                 new CorsConfiguration();
 
         configuration.setAllowedOrigins(
-                List.of("https://expense-tracker-eosin-seven-28.vercel.app")
+                List.of("https://expense-tracker-pinipenaveena.vercel.app")
         );
 
         configuration.setAllowedMethods(
